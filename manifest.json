@@ -1,0 +1,21 @@
+{
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "展示页面的 cookie ",
+    "default_popup": "cookies.html",
+    "default_icon": {
+      "19": "icons/boozu19.png",
+      "38": "icons/boozu38.png"
+    }
+  },
+  "description": "展示页面的 cookie ",
+  "icons": {
+    "48": "icons/boozu48.png",
+    "96": "icons/boozu96.png"
+  },
+  "homepage_url": "",
+  "manifest_version": 2,
+  "name": "页面 cookie ",
+  "version": "1.0",
+  "permissions": ["cookies","<all_urls>","tabs"]
+}

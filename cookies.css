@@ -1,0 +1,15 @@
+html, body {
+  width: 500px;
+}
+
+.panel {
+  padding: 5px;
+}
+
+li {
+  margin-bottom: 5px;
+  unselectable: all;
+  -moz-user-select: all;
+  onselectstart: all;
+  -webkit-user-select: all;
+}
