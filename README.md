@@ -1,6 +1,6 @@
 # boozu 爆竹
 
-![](cookie-show.gif)
+![](https://cdn.jsdelivr.net/gh/getbuguai/boozu/cookie-show.gif)
 获取网页的 cookie 的插件
 
 
